@@ -138,3 +138,24 @@ Tampilan di Browser akan seperti ini, saat kita menceklis pilihan tersebut maka 
 ![Gambar 27](img/ss27.png)
 
 ## Tugas 
+### Form Validasi
+
+Tugas kali ini kita membuat form validasi dari JavaScript, untuk contoh codingannya seperti ini.
+Kemudian deklarasikan juga CSS nya
+
+![Gambar 28](img/ss28.png)
+![Gambar 29](img/ss29.png)
+
+CSS nya seperti ini 
+
+![Gambar 30](img/ss30.png)
+
+Kita lihat tampilan Browsernya akan jadi seperti ini 
+
+![Gambar 31](img/ss31.png)
+
+Untuk validasi nya, saat kita mengosongkan form tersebut maka akan tampil sebuah alert seperti ini 
+
+![Gambar 32](img/ss32.png)
+
+Terima Kasih.....
