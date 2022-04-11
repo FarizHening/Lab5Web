@@ -1,0 +1,32 @@
+.login {
+    padding: 1em;
+    margin: 2em auto;
+    width: 17em;
+    background: rgb(0, 255, 204);
+    border-radius: 3px;
+}
+
+label {
+    font-size: 10pt;
+    color: black;
+}
+
+input[type="text"],
+input[type="text"],
+input[type="text"],
+input[type="text"],
+textarea {
+    padding: 8px;
+    width: 95%;
+    background: #ffffff;
+    border: 0;
+    font-size: 10pt;
+    margin: 6px 0px;
+}
+
+.tombol {
+    background: #18ed00;
+    color: #fff;
+    border: 0;
+    padding: 5px 8px;
+}

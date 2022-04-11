@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Validasi</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<center><h2>Form Validasi</h2></center>
+	<div class="login">
+		<form action="#" method="POST" onSubmit="validasi()">
+			<div>
+				<label>Nama</label>
+				<input type="text" name="nama" id="nama" />
+			</div>
+			<div>
+				<label>NIM</label>
+				<input type="text" name="nim" id="nim" />
+			</div>
+			<div>
+				<label>Kelas</label>
+				<input type="text" name="kelas" id="kelas" />
+			</div>
+			<div>
+				<label>Alamat:</label>
+				<textarea cols="40" rows="5" name="alamat" id="alamat"></textarea>
+			</div>
+			<div>
+				<input type="submit" value="Submit" class="tombol">
+			</div>
+		</form>
+	</div>
+</body>
+<script type="text/javascript">
+	function validasi() {
+		var nama = document.getElementById("nama").value;
+		var nim = document.getElementById("nim").value;
+		var kelas = document.getElementById("kelas").value;
+		var alamat = document.getElementById("alamat").value;
+		if (nama != "" && nim!="" && kelas !="" && alamat !="") {
+			return true;
+		}else{
+			alert('Harap isi data dengan lengkap !');
+		}
+	}
+</script>
+</html>
