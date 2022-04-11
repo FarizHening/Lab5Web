@@ -67,7 +67,7 @@ Tampilan di Browser seperti ini
 
 ![Gambar 13](img/ss13.png)
 
-Kemudian klik pada `<aritmethic>` maka akan tampil operasi dasar aritmatika nya
+Kemudian klik pada `<arithmetic>` maka akan tampil operasi dasar aritmatika nya
 
 ![Gambar 14](img/ss14.png)
 
@@ -99,3 +99,42 @@ Tampilan di Browser akan jadi seperti ini
 Disini saya mencoba memasukkan angka 5, maka tampilan yang akan muncul yaitu "bilangan lima" sesuai dengan codingan diatas
 
 ![Gambar 20](img/ss20.png)
+
+## Pembuatan Form
+### Form Input
+
+Membuat form input menggunakan JavaScript. Contoh sederhana nya seperti ini
+
+![Gambar 21](img/ss21.png)
+
+Kita coba buka di Browser, tampilannya akan seperti ini 
+
+![Gambar 22](img/ss22.png)
+
+### Form Button
+
+Membuat form button menggunakan JavaScript. Contoh sederhananya seperti ini 
+
+![Gambar 23](img/ss23.png)
+
+Tampilan di Browser akan jadi seperti ini 
+
+![Gambar 24](img/ss24.png)
+
+Kemudian coba click pada button nya, disini saya mencoba memakai latar belakang hijau dan teks kuning.
+
+![Gambar 25](img/ss25.png)
+
+## HTML DOM
+### Checkbox Perhitungann Otomatis
+
+Membuat checkbox dengan perhitungan otomatis, dibawah ini contoh codingan daftar menu sederhana beserta hitungan harganya.
+Seperti gambar dibawah ini 
+
+![Gambar 26](img/ss26.png)
+
+Tampilan di Browser akan seperti ini, saat kita menceklis pilihan tersebut maka jumlah nominal akan otomatis terakumulasi
+
+![Gambar 27](img/ss27.png)
+
+## Tugas 
